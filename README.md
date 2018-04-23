@@ -5,12 +5,12 @@ Universidad Distrital Francisco Jose de Caldas
 
 Integrantes:
 
-Grafica 	-   Andres Salinas	
+Grafica 	-   Andres Salinas - andressalinas98
 
-	Mateo 			Matthew2017-2
+	Mateo Izquierdo		Matthew2017-2
 	Juan David 		DavidBBBB
   
-Servidor y Cliente 	-   Alexandra	Daniela Martinez
+Servidor y Cliente 	-   Alexandra Daniela Martinez - 
 
 	David	 		Dauman99
 	Francisco 	 	FranciscoBarrero
@@ -18,19 +18,19 @@ Servidor y Cliente 	-   Alexandra	Daniela Martinez
 	Leonardo 		Leonardowiesner11
 	Julian 			IMrJulian
   
-Funcionamiento	-   Cheetos	
+Funcionamiento	-   Johan Mendez - JCheetos
 
 	Diego Velez		Diefex
 	Johan Villabona		JohanVillabona
 	Jorge			JosH669
-  
-Archivo 	-   Sebastian	
+
+Archivo 	-   Sebastian Sanchez - 
 
 	Camilo Torres (Messi) 	Torrescamilo1998
 	Diego Galeano 		DiegoGaleano
   
-UML	  -   Valentina	
+UML	  -   Valentina Tobo - valentinatobo	
 
-	Daysi 			Dayapar
-	Daniel 			DanielFelipeRoa
+	Daysi Yara		Dayapar
+	Daniel Roa		DanielFelipeRoa
 	Nicolas 		nickrb18
