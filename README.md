@@ -5,32 +5,32 @@ Universidad Distrital Francisco Jose de Caldas
 
 Integrantes:
 
-Grafica 	-   Andres Salinas - andressalinas98
+Grafica 	-  20172020087 Edwin Andres Salinas Chaparro 	
 
-	Mateo Izquierdo		Matthew2017-2
-	Juan David 		DavidBBBB
+20172020082	Mateo Izquierdo Ramirez 			Matthew2017-2
+20172020038	Juan David Blanco Serrano		        DavidBBBB
   
-Servidor y Cliente 	-   Alexandra Daniela Martinez - 
+Servidor y Cliente 	-  20171020006  Daniela Alexandra Martinez Rueda	Daniela Martinez
 
-	David Manosalva		Dauman99
-	Francisco Barrero 	FranciscoBarrero
-	Jesus Roso 		Jesus Roso
-	Leonardo 		Leonardowiesner11
-	Julian 			IMrJulian
+20172020058	David Alberto Manosalva Morales	 		Dauman99
+20172020062     Francisco Javier Barrero Zambrano	 	FranciscoBarrero
+20172020051	Jesus David Roso Forez		                Jesus Roso
+20172020028	Brayan Leonardo Wiesner Castro		        Leonardowiesner11
+20172020125	Julian 	David Rincon Castro		        IMrJulian
   
-Funcionamiento	-   Johan Mendez - JCheetos
+Funcionamiento	-   20172020070 Johan Sneider Mendez Vega (Cheetos)	
 
-	Diego Velez		Diefex
-	Johan Villabona		JohanVillabona
-	Jorge			JosH669
-
-Archivo 	-   Sebastian Sanchez - 
-
-	Camilo Torres (Messi) 	Torrescamilo1998
-	Diego Galeano 		DiegoGaleano
+20172020075     Diego Alejandro Velez Gracia		        Diefex
+20172020054	Johan Alexander Villabona Ulloa		        JohanVillabona
+20172020042	Jorge Enrique Acosta Jimenez			JosH669
   
-UML	  -   Valentina Tobo - valentinatobo	
+Archivo 	-  20172020061 Johan Sebastian Sanchez Vargas 	
 
-	Daysi Yara		Dayapar
-	Daniel Roa		DanielFelipeRoa
-	Nicolas 		nickrb18
+20172020067	Camilo Andres Torres Rodríguez(Messi) 	                Torrescamilo1998
+20172020074	Diego Alonso Galeano Herrera	                        DiegoGaleano
+  
+UML	  -   20172020063 Diana Valentina Uscategui Tobo	
+
+20172020077	Daysi Carolina Yara Pardo			Dayapar
+20172020078	Daniel Felipe Camargo Roa			DanielFelipeRoa
+20161020102	Nicolas Ramirez Bejarano		        nickrb18
