@@ -5,7 +5,7 @@ Universidad Distrital Francisco Jose de Caldas
 
 Integrantes:
 
-Grafica 	-  20172020087 - Edwin Andres Salinas Chaparro 	
+Grafica 	-  20172020087 - Edwin Andres Salinas Chaparro - andressalinas98 	
 
     20172020082	Mateo Izquierdo Ramirez 			Matthew2017-2
     20172020038	Juan David Blanco Serrano		        DavidBBBB
