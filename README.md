@@ -26,7 +26,7 @@ Funcionamiento	-   20172020070 - Johan Sneider Mendez Vega (Cheetos) - JCheetos
   
 Archivo 	-  20172020061 - Johan Sebastian Sanchez Vargas - jossanchezv
 
-    20172020067	Camilo Andres Torres Rodríguez(Messi) 	        Torrescamilo1998
+    20172020067	Camilo Andres Torres Rodríguez (Messi) 	        Torrescamilo1998
     20172020074	Diego Alonso Galeano Herrera	                DiegoGaleano
   
 UML	  -   20172020063 - Diana Valentina Uscategui Tobo - valentinatobo	
