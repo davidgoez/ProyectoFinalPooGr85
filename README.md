@@ -12,8 +12,8 @@ Grafica 	-   Andres Salinas - andressalinas98
   
 Servidor y Cliente 	-   Alexandra Daniela Martinez - 
 
-	David	 		Dauman99
-	Francisco 	 	FranciscoBarrero
+	David Manosalva		Dauman99
+	Francisco Barrero 	FranciscoBarrero
 	Jesus Roso 		Jesus Roso
 	Leonardo 		Leonardowiesner11
 	Julian 			IMrJulian
