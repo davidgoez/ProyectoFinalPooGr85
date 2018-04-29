@@ -1,5 +1,5 @@
 # ProyectoFinalPooGr85
-# Laberinto Grupo 85
+
 Videojuego para Proyecto Final de Programación Orientada a Objetos, Grupo 85, bajo la supervisión de Alejandro Daza.
 Universidad Distrital Francisco Jose de Caldas
 
