@@ -17,6 +17,7 @@ Servidor y Cliente 	-  20171020006 - Daniela Alexandra Martinez Rueda -
     20172020051	Jesus David Roso Forez		                Jesus Roso
     20172020028	Brayan Leonardo Wiesner Castro		        Leonardowiesner11
     20172020125	Julian 	David Rincon Castro		        IMrJulian
+    20172020059 Sebastián David Mora Goez.              Davidgoez
   
 Funcionamiento	-   20172020070 - Johan Sneider Mendez Vega (Cheetos) - JCheetos	
 
